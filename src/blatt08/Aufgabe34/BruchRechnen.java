@@ -1,6 +1,6 @@
 package blatt08.Aufgabe34;
 
-import Aufgabe31.Rechnen; // Import um Zugriff auf Methode ggT (größter gemeinsamer Teiler) zu ermöglichen (line 66)
+import blatt08.Aufgabe31.Rechnen; // Import um Zugriff auf Methode ggT (größter gemeinsamer Teiler) zu ermöglichen (line 66)
 import Prog1Tools.IOTools;
 
 public class BruchRechnen {

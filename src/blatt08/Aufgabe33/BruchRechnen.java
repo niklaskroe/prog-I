@@ -1,6 +1,6 @@
 package blatt08.Aufgabe33;
 
-import Aufgabe31.Rechnen;
+import blatt08.Aufgabe31.Rechnen;
 import Prog1Tools.IOTools;
 
 public class BruchRechnen {
